@@ -14,6 +14,10 @@ To get Started:
 - install all project dependencies with `expo install`
 - start the server with `expo start`
 
+#### Platform Tests
+
+This app was developed and tested using [expo](https://expo.io/) running on Samsung S9 (Android 9.0.0)
+
 #### Start Playing
 
 Simply select a deck to start playing the game.
